@@ -1,8 +1,4 @@
 # Databricks notebook source
-#test
-
-# COMMAND ----------
-
 # MAGIC %md ## Implementing Data Quality and Address Standardization 
 # MAGIC
 # MAGIC
